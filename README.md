@@ -8,9 +8,7 @@ This project aims to analyze business performance by comparing key metrics betwe
 #### A. Average Transactions On The Dashboard Compared To Current and Previous Customers. 
 <img width="622" height="461" alt="image" src="https://github.com/user-attachments/assets/9b0dedce-99b9-4f8f-9559-2173c787edc8" />.
 
-Dashboard View AVG Check.
-
-The main dashboard demonstrates a fundamental shift in the business model this year. 
+Dashboard View AVG Check. The main dashboard demonstrates a fundamental shift in the business model this year. 
 - Exponential Growth in Annual Performance: The Average Check metric showed very positive growth of +59% year-over-year (YoY). The average transaction value increased from IDR 1,330,000 in the previous period to IDR 2,117,000 in the current period. This indicates the success of the premium pricing strategy or increased customer purchasing power per transaction.
 
 - Direct Correlation with Revenue Growth: This 59% increase in average transaction value was the primary driver of total revenue growth, which significantly increased by +100% (from IDR 949.4 million to IDR 1.89 billion). Data shows that although sales volume (Sales Quantity) only increased by 25%, the surge in value per transaction (Avg Check) had a financial impact twice as large. 
@@ -22,9 +20,7 @@ The main dashboard demonstrates a fundamental shift in the business model this y
 #### B. Sales Quantity by Month Dashboard: Seasonal and Momentum Analysis 
 <img width="631" height="469" alt="image" src="https://github.com/user-attachments/assets/6e3fdb1f-c559-463f-9558-b76bd1465162" />.
 
-Dashboard Sales Quantity.
-
-This visual analyzes the effectiveness of product distribution in physical units. 
+Dashboard Sales Quantity. This visual analyzes the effectiveness of product distribution in physical units. 
 - Deep Dive Analysis: Total sales volume for the current period reached 2,599 units, indicating a very healthy growth of +25% compared to the previous period (2,080 4 units). The highest sales peak consistently occurred in September with a volume of 1,110 units, followed by August (967 units).
   
 - Key Findings: A significant upward trend occurred in the third quarter (Q3). The success of surpassing 1,000 units in September indicates that promotional strategies and stock availability during that period were closely aligned with market demand.
@@ -32,8 +28,7 @@ This visual analyzes the effectiveness of product distribution in physical units
 #### C. Visual Revenue Dashboard: Monthly Profit 
 <img width="626" height="463" alt="image" src="https://github.com/user-attachments/assets/9d8fec13-ba58-4d3b-95ca-7415b09619d3" />.
 
-Dashboard Revenue.
-This line chart tracks the monetary value generated across all sales channels. 
+Dashboard Revenue. This line chart tracks the monetary value generated across all sales channels. 
 - Deep Dive Analysis: Revenue performance recorded an impressive 100% year-on
 year growth. Revenue surged from IDR 949,400,000 to IDR 1,898,654,000. Monthly analysis shows that the highest revenue was achieved in October at IDR 976,800,000, representing nearly 50% of total annual revenue.
 
@@ -54,8 +49,7 @@ high. The decline in Product A needs to be immediately evaluated to determine wh
 #### E. Products Distribution Imbalance Dashboard 
 <img width="625" height="466" alt="image" src="https://github.com/user-attachments/assets/24dcb24d-2c1c-41cc-9fa0-95bbacc78104" />
 
-Dashboard Conversion.
-This visual demonstrates the company's ability to convert market potential (Leads) into real transactions. 
+Dashboard Conversion. This visual demonstrates the company's ability to convert market potential (Leads) into real transactions. 
 - Deep Dive Analysis: The conversion rate increased impressively by +34%, rising from 51% to 69% in the current period. Despite the increase in Open Leads to 2,249, the sales team managed to close 1,550 transactions (Closed Leads).
   
 - Key Findings: The increase in conversion to 69% indicates a significant improvement in lead quality and the sales team's negotiation effectiveness. The company successfully handled a larger volume of leads with a higher closing ratio compared to the previous year. 
