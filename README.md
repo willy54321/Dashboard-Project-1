@@ -1,5 +1,12 @@
-# Dashboard-Project-1
-Comparison of business performance this year and last year in one Excel section
+# Comparison of business performance this year and last year in one Excel section
+
+Link Portofolio Comparison of current and last year’s metrics in one Excel chart.xlsx = 
+[Klik di sini untuk melihat Dashboard Live](https://1drv.ms/x/c/bed680db9087d3ba/IQCFLviImk1uR56nPpMBMX86Ac7LfZO5Ub31-Ij8WL6M3GU)
+
+<img width="734" height="373" alt="image" src="https://github.com/user-attachments/assets/a6c01289-29eb-4cb4-8713-492b9e57e288" />
+
+<img width="816" height="320" alt="image" src="https://github.com/user-attachments/assets/227b7de4-09ec-44cb-b4ae-2d42d8d364db" />
+
 
 ### 1. Executive Summary & Business Context 
 This project aims to analyze business performance by comparing key metrics between the current year and the previous year. I built this interactive dashboard to provide stakeholders with instant visibility into the company's financial and operational health. This dashboard is designed to answer the critical business question: "Is this year's strategy more effective than last year's in terms of revenue, transaction efficiency, and product conversion?"
