@@ -3,17 +3,22 @@
 Link Portofolio Comparison of current and last year’s metrics in one Excel chart.xlsx = 
 [Klik di sini untuk melihat Dashboard Live](https://1drv.ms/x/c/bed680db9087d3ba/IQCFLviImk1uR56nPpMBMX86Ac7LfZO5Ub31-Ij8WL6M3GU)
 
+<p align="center"> 
 <img width="734" height="373" alt="image" src="https://github.com/user-attachments/assets/a6c01289-29eb-4cb4-8713-492b9e57e288" />
+</p>
 
+<p align="center"> 
 <img width="816" height="320" alt="image" src="https://github.com/user-attachments/assets/227b7de4-09ec-44cb-b4ae-2d42d8d364db" />
-
+</p>
 
 ### 1. Executive Summary & Business Context 
 This project aims to analyze business performance by comparing key metrics between the current year and the previous year. I built this interactive dashboard to provide stakeholders with instant visibility into the company's financial and operational health. This dashboard is designed to answer the critical business question: "Is this year's strategy more effective than last year's in terms of revenue, transaction efficiency, and product conversion?"
 
 ### 2. Deep Dive Analysis & Key Findings (Detailed Version) 
 #### A. Average Transactions On The Dashboard Compared To Current and Previous Customers. 
+<p align="center"> 
 <img width="622" height="461" alt="image" src="https://github.com/user-attachments/assets/9b0dedce-99b9-4f8f-9559-2173c787edc8" />.
+</p>
 
 Dashboard View AVG Check. The main dashboard demonstrates a fundamental shift in the business model this year. 
 - Exponential Growth in Annual Performance: The Average Check metric showed very positive growth of +59% year-over-year (YoY). The average transaction value increased from IDR 1,330,000 in the previous period to IDR 2,117,000 in the current period. This indicates the success of the premium pricing strategy or increased customer purchasing power per transaction.
@@ -25,7 +30,9 @@ Dashboard View AVG Check. The main dashboard demonstrates a fundamental shift in
 - Efficiency vs. Volume: The current business strategy appears to be more focused on "transaction quality" than "quantity," with the company successfully generating greater profits from each incoming customer compared to last year. 
 
 #### B. Sales Quantity by Month Dashboard: Seasonal and Momentum Analysis 
+<p align="center"> 
 <img width="631" height="469" alt="image" src="https://github.com/user-attachments/assets/6e3fdb1f-c559-463f-9558-b76bd1465162" />.
+</p>
 
 Dashboard Sales Quantity. This visual analyzes the effectiveness of product distribution in physical units. 
 - Deep Dive Analysis: Total sales volume for the current period reached 2,599 units, indicating a very healthy growth of +25% compared to the previous period (2,080 4 units). The highest sales peak consistently occurred in September with a volume of 1,110 units, followed by August (967 units).
@@ -33,7 +40,9 @@ Dashboard Sales Quantity. This visual analyzes the effectiveness of product dist
 - Key Findings: A significant upward trend occurred in the third quarter (Q3). The success of surpassing 1,000 units in September indicates that promotional strategies and stock availability during that period were closely aligned with market demand.
 
 #### C. Visual Revenue Dashboard: Monthly Profit 
+<p align="center"> 
 <img width="626" height="463" alt="image" src="https://github.com/user-attachments/assets/9d8fec13-ba58-4d3b-95ca-7415b09619d3" />.
+</p>
 
 Dashboard Revenue. This line chart tracks the monetary value generated across all sales channels. 
 - Deep Dive Analysis: Revenue performance recorded an impressive 100% year-on
@@ -43,7 +52,9 @@ year growth. Revenue surged from IDR 949,400,000 to IDR 1,898,654,000. Monthly a
 while unit volume only grew 25% indicates improved pricing efficiency or a shift in product mix to more premium categories (high-ticket items). 
 
 #### D. Product Distribution Imbalance Visual Dashboard
+<p align="center"> 
 <img width="631" height="467" alt="image" src="https://github.com/user-attachments/assets/918c3ee8-249d-40b2-b0de-8819cef2a7a5" />
+</p>
 
 Dashboard Product.
 Using a Radar Chart, this visual maps the contribution balance of five major product categories. 
@@ -54,7 +65,9 @@ holding a 27% share. Conversely, Product A experienced a -5% growth contraction 
 high. The decline in Product A needs to be immediately evaluated to determine whether it is due to the end of its product life cycle or a loss of competitiveness to competitors in the same category.
 
 #### E. Products Distribution Imbalance Dashboard 
+<p align="center"> 
 <img width="625" height="466" alt="image" src="https://github.com/user-attachments/assets/24dcb24d-2c1c-41cc-9fa0-95bbacc78104" />
+</p>
 
 Dashboard Conversion. This visual demonstrates the company's ability to convert market potential (Leads) into real transactions. 
 - Deep Dive Analysis: The conversion rate increased impressively by +34%, rising from 51% to 69% in the current period. Despite the increase in Open Leads to 2,249, the sales team managed to close 1,550 transactions (Closed Leads).
